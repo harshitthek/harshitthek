@@ -1,0 +1,28 @@
+name: Generate 3D contribution profile
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "45 18 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate 3D profile
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: harshitthek
+
+      - name: Commit generated 3D profile
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "chore: update 3d contribution profile"
+          file_pattern: profile-3d-contrib/*.svg

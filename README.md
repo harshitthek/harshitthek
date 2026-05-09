@@ -1,31 +1,145 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Harshit Sharma
-=======================================================================================================================================
+<div align="center">
 
-AI & ML Student | Full Stack Developer | Cybersecurity Enthusiast
------------------------------------------------------------------
+<img width="100%" alt="Harshit Sharma cyber lab banner" src="./assets/banner/cyber-lab.svg" />
 
-I'm a B.Tech AI & ML student at USAR (GGSIPU), passionate about building real-world applications and understanding how systems work at a deeper level. My journey started with web development, but over time I’ve explored backend development, APIs, problem solving, and even areas like cybersecurity and Linux. I don’t limit myself to just a few technologies, I enjoy experimenting with different tools, learning new concepts, and constantly pushing myself to grow as a developer.
+<br />
 
-* 🌍  I'm based in New Delhi, India
-* ✉️  You can contact me at [codewithharshitsharma@gmail.com](mailto:codewithharshitsharma@gmail.com)
-* 🚀  I'm currently working on [ChaosLab – System Failure & Recovery Engine](http://https://github.com/harshitthek/ChaosLab-System-Failure-Recovery-Engine.git)
-* 🧠  I'm currently learning Data Structures & Algorithms Backend Development (APIs, Authentication) Exploring Machine Learning & Cyber
-* 👥  I'm looking to collaborate on Open source projects Web development and backend projects or just fun
-* 💬  Ask me about I love experimenting with Linux and breaking things just to understand how they work
+<a href="https://github.com/harshitthek">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Harshit+Sharma;AI+%26+ML+Student;Full+Stack+Builder;Cybersecurity+%2B+Linux+Explorer;Learning+by+breaking%2C+building%2C+and+shipping" alt="Typing introduction" />
+</a>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" alt="Neovim" title="Neovim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
+<p>
+  <strong>AI & ML student at USAR (GGSIPU) building practical web, ML, and systems projects.</strong>
+  <br />
+  I like turning rough ideas into working products, testing how systems fail, and learning by shipping.
 </p>
 
-### Socials
+<p>
+  <a href="mailto:codewithharshitsharma@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://www.linkedin.com/in/devharshitsharma"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://x.com/NotYourHarshit"><img alt="X" src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://dev.to/harshitthek"><img alt="DEV" src="https://img.shields.io/badge/DEV-0D1117?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://gitlab.com/harshitthek"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26" /></a>
+  <img alt="Discord: harshit0" src="https://img.shields.io/badge/Discord-harshit0-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/harshitthek" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/harshitthek" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.x.com/NotYourHarshit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.dev.to/harshitthek" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.linkedin.com/in/devharshitsharma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/harshit0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-### Badges
+<p>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=harshitthek&style=for-the-badge&label=Profile+views&color=7c3aed" />
+  <img alt="Open to collaborate" src="https://img.shields.io/badge/Open%20to-collabs%20%26%20internships-22c55e?style=for-the-badge" />
+</p>
 
-<b>My GitHub Stats</b>
+</div>
 
-<a href="http://www.github.com/harshitthek"><img src="https://github-readme-stats.vercel.app/api?username=harshitthek&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ffffff&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="harshitthek's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/harshitthek"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitthek&stroke=ef4444&background=7f1d1d&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+```ts
+const harshit = {
+  basedIn: "New Delhi, India",
+  focus: ["AI/ML", "full-stack web", "backend APIs", "cybersecurity"],
+  building: ["ML-backed products", "privacy-first web tools", "Linux/security labs"],
+  learning: ["DSA", "FastAPI auth", "model deployment", "system design basics"],
+  openTo: ["internships", "open source", "web/backend collaborations"],
+};
+```
 
-<a href="https://github.com/harshitthek" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitthek&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=ffffff&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Currently in the Lab
+
+- Training ML models and wrapping them in real APIs and dashboards.
+- Building full-stack apps with React, FastAPI, databases, auth, and deployment pipelines.
+- Exploring Linux, security basics, failure recovery, and the internals behind everyday tools.
+- Looking for internships, beginner-friendly open-source work, and practical product ideas to build with others.
+
+### Featured Builds
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/harshitthek/used-bike-price">Used Bike Price Predictor</a></h3>
+      <p>ML app for Indian used motorcycle resale pricing using cleaned Droom/Kaggle market data.</p>
+      <p><strong>Proof:</strong> XGBoost reached R2 = 0.91 with FastAPI, React, CI, Docker, Render, and Vercel support.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/harshitthek/carbon-guardian-ai">Carbon Guardian AI</a></h3>
+      <p>Full-stack carbon footprint reduction platform with user activity, recommendations, rewards, and community insights.</p>
+      <p><strong>Stack:</strong> React, FastAPI, SQLite, TensorFlow Recommenders hook, weather/AQI providers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/harshitthek/Customizable-Browser-Startpage">Customizable Browser Startpage</a></h3>
+      <p>Privacy-first browser homepage with themes, bookmarks, search engines, GitHub widget, local storage, and import/export.</p>
+      <p><strong>Focus:</strong> vanilla JavaScript, security hardening, CSP, XSS-safe rendering, and zero tracking.</p>
+    </td>
+    <td width="50%">
+      <h3>Learning Lab</h3>
+      <p>Small experiments around Linux, frontend polish, backend auth, DSA, and security concepts.</p>
+      <p><strong>Goal:</strong> break things carefully, understand the internals, then rebuild them cleaner.</p>
+    </td>
+  </tr>
+</table>
+
+### Tech Stack & Tools
+
+<div align="center">
+
+**Languages**
+<br />
+<img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,bash,html,css" alt="Python, JavaScript, TypeScript, C, C++, Bash, HTML, CSS" />
+
+**Frontend & App Building**
+<br />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,figma,framer" alt="React, Vite, Tailwind CSS, Bootstrap, Figma, Framer" />
+
+**Backend, Data & AI**
+<br />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mongodb,mysql,postgres,firebase,supabase" alt="FastAPI, Flask, Node.js, MongoDB, MySQL, Postgres, Firebase, Supabase" />
+
+**DevOps & Workflow**
+<br />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,ubuntu,vercel,netlify" alt="Git, GitHub, GitHub Actions, Docker, Linux, Ubuntu, Vercel, Netlify" />
+
+</div>
+
+### GitHub Activity
+
+<div align="center">
+
+<img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitthek&theme=tokyonight" />
+<img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=harshitthek&theme=tokyonight&hide_border=true" />
+
+<br />
+
+<img width="100%" alt="Profile contribution details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitthek&theme=tokyonight" />
+
+<br />
+
+<img width="49%" alt="Languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitthek&theme=tokyonight" />
+<img width="49%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitthek&theme=tokyonight&utcOffset=5.5" />
+
+<br />
+
+<img width="100%" alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=harshitthek&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+### Contribution Lab
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/snake/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="./assets/snake/github-contribution-grid-snake.svg" />
+</picture>
+
+<br />
+
+<img width="100%" alt="3D contribution profile" src="./profile-3d-contrib/profile-night-green.svg" />
+
+</div>
+
+---
+
+<div align="center">
+  <strong>break systems - learn internals - build better software</strong>
+</div>
