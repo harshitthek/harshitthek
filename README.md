@@ -15,17 +15,12 @@
 </p>
 
 <p>
-  <a href="mailto:codewithharshitsharma@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://www.linkedin.com/in/devharshitsharma"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="https://x.com/NotYourHarshit"><img alt="X" src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://dev.to/harshitthek"><img alt="DEV" src="https://img.shields.io/badge/DEV-0D1117?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-  <a href="https://gitlab.com/harshitthek"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26" /></a>
-  <img alt="Discord: harshit0" src="https://img.shields.io/badge/Discord-harshit0-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
-</p>
-
-<p>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=harshitthek&style=for-the-badge&label=Profile+views&color=7c3aed" />
-  <img alt="Open to collaborate" src="https://img.shields.io/badge/Open%20to-collabs%20%26%20internships-22c55e?style=for-the-badge" />
+  <a href="mailto:codewithharshitsharma@gmail.com" target="_blank" rel="noreferrer"><img alt="Email" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://www.linkedin.com/in/devharshitsharma" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://x.com/NotYourHarshit" target="_blank" rel="noreferrer"><img alt="X" src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://dev.to/harshitthek" target="_blank" rel="noreferrer"><img alt="DEV" src="https://img.shields.io/badge/DEV-0D1117?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://gitlab.com/harshitthek" target="_blank" rel="noreferrer"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26" /></a>
+  <a href="https://discord.com/users/604653481999204360" target="_blank" rel="noreferrer"><img alt="Discord: harshit0" src="https://img.shields.io/badge/Discord-harshit0-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>
 </p>
 
 </div>
@@ -51,32 +46,17 @@ const harshit = {
 
 ### Featured Builds
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/harshitthek/used-bike-price">Used Bike Price Predictor</a></h3>
-      <p>ML app for Indian used motorcycle resale pricing using cleaned Droom/Kaggle market data.</p>
-      <p><strong>Proof:</strong> XGBoost reached R2 = 0.91 with FastAPI, React, CI, Docker, Render, and Vercel support.</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/harshitthek/carbon-guardian-ai">Carbon Guardian AI</a></h3>
-      <p>Full-stack carbon footprint reduction platform with user activity, recommendations, rewards, and community insights.</p>
-      <p><strong>Stack:</strong> React, FastAPI, SQLite, TensorFlow Recommenders hook, weather/AQI providers.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/harshitthek/Customizable-Browser-Startpage">Customizable Browser Startpage</a></h3>
-      <p>Privacy-first browser homepage with themes, bookmarks, search engines, GitHub widget, local storage, and import/export.</p>
-      <p><strong>Focus:</strong> vanilla JavaScript, security hardening, CSP, XSS-safe rendering, and zero tracking.</p>
-    </td>
-    <td width="50%">
-      <h3>Learning Lab</h3>
-      <p>Small experiments around Linux, frontend polish, backend auth, DSA, and security concepts.</p>
-      <p><strong>Goal:</strong> break things carefully, understand the internals, then rebuild them cleaner.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<p>
+<a href="https://github.com/harshitthek/used-bike-price" target="_blank" rel="noreferrer"><img width="49%" alt="Used Bike Price Predictor project card" src="./assets/projects/used-bike-price.svg" /></a><a href="https://github.com/harshitthek/carbon-guardian-ai" target="_blank" rel="noreferrer"><img width="49%" alt="Carbon Guardian AI project card" src="./assets/projects/carbon-guardian-ai.svg" /></a>
+</p>
+
+<p>
+<a href="https://github.com/harshitthek/Customizable-Browser-Startpage" target="_blank" rel="noreferrer"><img width="49%" alt="Customizable Browser Startpage project card" src="./assets/projects/browser-startpage.svg" /></a><a href="https://github.com/harshitthek?tab=repositories" target="_blank" rel="noreferrer"><img width="49%" alt="Learning Lab project card" src="./assets/projects/learning-lab.svg" /></a>
+</p>
+
+</div>
 
 ### Tech Stack & Tools
 
@@ -122,19 +102,15 @@ const harshit = {
 
 </div>
 
-### Contribution Lab
+### 3D Contribution City
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/snake/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="./assets/snake/github-contribution-grid-snake.svg" />
-</picture>
+<a href="https://gitcity.natrajx.in/harshitthek" target="_blank" rel="noreferrer">
+  <img width="100%" alt="Harshit's 3D GitHub contribution city" src="https://gitcity.natrajx.in/api/svg?username=harshitthek&theme=matrix" />
+</a>
 
-<br />
-
-<img width="100%" alt="3D contribution profile" src="./profile-3d-contrib/profile-night-green.svg" />
+<sub>Profile views: <img alt="Profile views" src="https://komarev.com/ghpvc/?username=harshitthek&label=&style=flat-square&color=0d1117" /></sub>
 
 </div>
 

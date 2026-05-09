@@ -1,0 +1,40 @@
+<svg width="560" height="230" viewBox="0 0 560 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Learning Lab</title>
+  <desc id="desc">Project card for experiments and learning work.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="560" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090B18"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="40" y1="36" x2="524" y2="199" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#F43F5E"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: "Fira Code", Consolas, monospace; }
+      .title { fill: #F8FAFC; font-size: 25px; font-weight: 800; }
+      .body { fill: #CBD5E1; font-size: 14px; }
+      .pill { fill: #C4B5FD; font-size: 12px; font-weight: 700; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="558" height="228" rx="18" fill="url(#bg)" stroke="#26324D" stroke-width="2"/>
+  <rect x="372" y="55" width="136" height="112" rx="16" fill="#0B1222" stroke="#334155"/>
+  <text x="393" y="88" class="mono" fill="#22D3EE" font-size="16">$ sudo lab</text>
+  <text x="393" y="118" class="mono" fill="#A78BFA" font-size="16">break()</text>
+  <text x="393" y="148" class="mono" fill="#22C55E" font-size="16">rebuild()</text>
+  <path d="M350 184L438 134L526 180L436 220L350 184Z" fill="#0B1222" stroke="#334155"/>
+  <path d="M382 178H495" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <text x="34" y="50" class="mono title">Learning Lab</text>
+  <text x="34" y="82" class="mono body">Small experiments around Linux, auth, DSA,</text>
+  <text x="34" y="110" class="mono body">security basics, backend APIs, and UI polish.</text>
+  <rect x="34" y="146" width="64" height="28" rx="14" fill="#1E293B"/>
+  <rect x="108" y="146" width="70" height="28" rx="14" fill="#1E293B"/>
+  <rect x="188" y="146" width="62" height="28" rx="14" fill="#1E293B"/>
+  <rect x="260" y="146" width="82" height="28" rx="14" fill="#1E293B"/>
+  <text x="52" y="165" class="mono pill">Linux</text>
+  <text x="126" y="165" class="mono pill">Auth</text>
+  <text x="207" y="165" class="mono pill">DSA</text>
+  <text x="278" y="165" class="mono pill">Security</text>
+  <path d="M34 198H526" stroke="url(#accent)" stroke-width="2"/>
+</svg>

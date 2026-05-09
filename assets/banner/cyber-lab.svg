@@ -53,7 +53,21 @@
   <text x="124" y="229" class="mono" font-size="16" fill="#67E8F9">cybersecurity learner // linux explorer</text>
   <text x="124" y="257" class="mono tiny">status: learning by breaking, building, and shipping</text>
 
-  <g filter="url(#glow)">
+  <g opacity="0.92">
+    <path d="M716 244L840 178L1014 231L887 303L716 244Z" fill="#0B1222" stroke="#334155"/>
+    <path d="M760 239L844 197L930 224L846 270L760 239Z" fill="#111827" stroke="#475569"/>
+    <rect x="792" y="190" width="28" height="58" rx="3" fill="#0E7490"/>
+    <rect x="792" y="166" width="28" height="24" rx="3" fill="#22D3EE"/>
+    <rect x="838" y="176" width="28" height="74" rx="3" fill="#5B21B6"/>
+    <rect x="838" y="140" width="28" height="36" rx="3" fill="#A78BFA"/>
+    <rect x="884" y="199" width="28" height="53" rx="3" fill="#166534"/>
+    <rect x="884" y="172" width="28" height="27" rx="3" fill="#22C55E"/>
+    <rect x="930" y="187" width="28" height="68" rx="3" fill="#0E7490"/>
+    <rect x="930" y="154" width="28" height="33" rx="3" fill="#22D3EE"/>
+    <path d="M746 251C808 207 883 202 966 235" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+  </g>
+
+  <g filter="url(#glow)" opacity="0.66">
     <path d="M642 104L732 78L835 112L914 85L1013 129" stroke="url(#accent)" stroke-width="3"/>
     <path d="M641 186L721 146L839 191L918 153L1015 205" stroke="url(#accent)" stroke-width="3" opacity="0.72"/>
     <path d="M642 255L738 222L838 244L929 213L1014 260" stroke="url(#accent)" stroke-width="3" opacity="0.56"/>
