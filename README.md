@@ -40,7 +40,7 @@ const harshit = {
 ### Currently in the Lab
 
 - Training ML models and wrapping them in real APIs and dashboards.
-- Building full-stack apps with React, FastAPI, databases, auth, and deployment pipelines.
+- Building full-stack apps with React, Express, FastAPI, databases, auth, and deployment pipelines.
 - Exploring Linux, security basics, failure recovery, and the internals behind everyday tools.
 - Looking for internships, beginner-friendly open-source work, and practical product ideas to build with others.
 
