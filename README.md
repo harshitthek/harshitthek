@@ -5,7 +5,7 @@
 <br />
 
 <a href="https://github.com/harshitthek">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Harshit+Sharma;AI+%26+ML+Student;Full+Stack+Builder;Cybersecurity+%2B+Linux+Explorer;Learning+by+breaking%2C+building%2C+and+shipping" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=2600&amp;pause=700&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Hi%2C+I'm+Harshit+Sharma;AI+%26+ML+Student;Full+Stack+Builder;Cybersecurity+%2B+Linux+Explorer;Learning+by+breaking%2C+building%2C+and+shipping" alt="Typing introduction" />
 </a>
 
 <p>
@@ -84,21 +84,21 @@ const harshit = {
 
 <div align="center">
 
-<img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitthek&theme=tokyonight" />
-<img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=harshitthek&theme=tokyonight&hide_border=true" />
+<img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitthek&amp;theme=tokyonight" />
+<img width="49%" alt="GitHub streak" src="https://github-readme-streak-stats-eight.vercel.app?user=harshitthek&amp;theme=tokyonight&amp;hide_border=true" />
 
 <br />
 
-<img width="100%" alt="Profile contribution details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitthek&theme=tokyonight" />
+<img width="100%" alt="Profile contribution details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitthek&amp;theme=tokyonight" />
 
 <br />
 
-<img width="49%" alt="Languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitthek&theme=tokyonight" />
-<img width="49%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitthek&theme=tokyonight&utcOffset=5.5" />
+<img width="49%" alt="Languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitthek&amp;theme=tokyonight" />
+<img width="49%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitthek&amp;theme=tokyonight&amp;utcOffset=5.5" />
 
 <br />
 
-<img width="100%" alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=harshitthek&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img width="100%" alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=harshitthek&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1" />
 
 </div>
 
@@ -107,10 +107,10 @@ const harshit = {
 <div align="center">
 
 <a href="https://gitcity.natrajx.in/harshitthek" target="_blank" rel="noreferrer">
-  <img width="100%" alt="Harshit's 3D GitHub contribution city" src="https://gitcity.natrajx.in/api/svg?username=harshitthek&theme=matrix" />
+  <img width="100%" alt="Harshit's 3D GitHub contribution city" src="https://gitcity.natrajx.in/api/svg?username=harshitthek&amp;theme=matrix" />
 </a>
 
-<sub>Profile views: <img alt="Profile views" src="https://komarev.com/ghpvc/?username=harshitthek&label=&style=flat-square&color=0d1117" /></sub>
+<sub>Profile views: <img alt="Profile views" src="https://komarev.com/ghpvc/?username=harshitthek&amp;label=&amp;style=flat-square&amp;color=0d1117" /></sub>
 
 </div>
 
