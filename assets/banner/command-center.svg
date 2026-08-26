@@ -1,0 +1,118 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Harshit Sharma engineering command center</title>
+  <desc id="desc">An animated engineering dashboard connecting applied machine learning, agent systems, backend APIs, Android, security, and open source.</desc>
+  <defs>
+    <linearGradient id="background" x1="32" y1="22" x2="1168" y2="338" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090C10"/>
+      <stop offset="0.52" stop-color="#10151B"/>
+      <stop offset="1" stop-color="#15110F"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="536" y1="70" x2="1114" y2="296" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="0.38" stop-color="#60A5FA"/>
+      <stop offset="0.7" stop-color="#FBBF24"/>
+      <stop offset="1" stop-color="#FB7185"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#27313A" stroke-width="1" opacity="0.46"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="radarClip"><circle cx="1032" cy="179" r="103"/></clipPath>
+    <style>
+      .mono { font-family: "Fira Code", Consolas, "Liberation Mono", monospace; }
+      .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .label { fill: #7E8A96; font-size: 12px; }
+      .flow { stroke-dasharray: 9 12; animation: flow 5.5s linear infinite; }
+      .scan { animation: scan 5.8s ease-in-out infinite; }
+      .cursor { animation: blink 1.05s steps(2, end) infinite; }
+      .pulse { animation: pulse 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .pulse.delay-1 { animation-delay: .7s; }
+      .pulse.delay-2 { animation-delay: 1.4s; }
+      .orbit { animation: orbit 14s linear infinite; transform-origin: 1032px 179px; }
+      @keyframes flow { to { stroke-dashoffset: -42; } }
+      @keyframes scan { 0%, 12% { transform: translateX(-80px); opacity: 0; } 28%, 72% { opacity: .72; } 88%, 100% { transform: translateX(710px); opacity: 0; } }
+      @keyframes blink { 0%, 45% { opacity: 1; } 46%, 100% { opacity: 0; } }
+      @keyframes pulse { 0%, 100% { opacity: .52; transform: scale(.9); } 50% { opacity: 1; transform: scale(1.16); } }
+      @keyframes orbit { to { transform: rotate(360deg); } }
+      @media (prefers-reduced-motion: reduce) { .flow, .scan, .cursor, .pulse, .orbit { animation: none; } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="358" rx="14" fill="url(#background)" stroke="#2A333C" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="358" rx="14" fill="url(#grid)" opacity="0.62"/>
+  <path d="M24 330H1176" stroke="#303942"/>
+  <path d="M24 31H1176" stroke="#303942"/>
+
+  <rect x="28" y="51" width="476" height="254" rx="10" fill="#0B0F13" stroke="#303942"/>
+  <circle cx="52" cy="75" r="5" fill="#FB7185"/>
+  <circle cx="70" cy="75" r="5" fill="#FBBF24"/>
+  <circle cx="88" cy="75" r="5" fill="#5EEAD4"/>
+  <text x="110" y="79" class="mono label">IDENTITY / ENGINEERING_NODE</text>
+
+  <text x="52" y="127" class="mono" fill="#5EEAD4" font-size="15">$ whoami</text>
+  <text x="52" y="170" class="sans" fill="#F8FAFC" font-size="36" font-weight="800">HARSHIT SHARMA</text>
+  <text x="52" y="201" class="mono" fill="#B8C2CC" font-size="14">AI/ML  •  AGENT SYSTEMS  •  BACKEND</text>
+  <text x="52" y="227" class="mono" fill="#B8C2CC" font-size="14">ANDROID  •  SECURITY  •  OPEN SOURCE</text>
+  <rect x="52" y="250" width="338" height="31" rx="5" fill="#121A1F" stroke="#29423E"/>
+  <circle cx="69" cy="266" r="5" fill="#5EEAD4" class="pulse"/>
+  <text x="83" y="270" class="mono" fill="#D6F8F2" font-size="12">NEW DELHI / BUILDING IN PUBLIC</text>
+  <rect x="397" y="250" width="77" height="31" rx="5" fill="#1D1710" stroke="#4B3B20"/>
+  <text x="413" y="270" class="mono" fill="#FBBF24" font-size="12">ONLINE</text>
+  <rect x="366" y="151" width="4" height="19" fill="#F8FAFC" class="cursor"/>
+
+  <text x="536" y="62" class="mono label">LIVE ENGINEERING PIPELINE</text>
+  <path d="M546 180H909" stroke="#33404A" stroke-width="4"/>
+  <path d="M546 180H909" stroke="url(#signal)" stroke-width="3" class="flow"/>
+
+  <g>
+    <rect x="536" y="91" width="170" height="64" rx="8" fill="#0D1517" stroke="#28504A"/>
+    <circle cx="558" cy="113" r="6" fill="#5EEAD4" class="pulse"/>
+    <text x="574" y="117" class="mono" fill="#5EEAD4" font-size="12">APPLIED ML</text>
+    <text x="558" y="140" class="mono" fill="#9AA8B4" font-size="11">evaluate / explain</text>
+
+    <rect x="731" y="91" width="170" height="64" rx="8" fill="#0E141C" stroke="#2B4463"/>
+    <circle cx="753" cy="113" r="6" fill="#60A5FA" class="pulse delay-1"/>
+    <text x="769" y="117" class="mono" fill="#60A5FA" font-size="12">AGENT SYSTEMS</text>
+    <text x="753" y="140" class="mono" fill="#9AA8B4" font-size="11">dispatch / verify</text>
+
+    <rect x="536" y="205" width="170" height="64" rx="8" fill="#16140E" stroke="#4F4223"/>
+    <circle cx="558" cy="227" r="6" fill="#FBBF24" class="pulse delay-2"/>
+    <text x="574" y="231" class="mono" fill="#FBBF24" font-size="12">BACKEND APIS</text>
+    <text x="558" y="254" class="mono" fill="#9AA8B4" font-size="11">secure / operate</text>
+
+    <rect x="731" y="205" width="170" height="64" rx="8" fill="#171013" stroke="#56313D"/>
+    <circle cx="753" cy="227" r="6" fill="#FB7185" class="pulse"/>
+    <text x="769" y="231" class="mono" fill="#FB7185" font-size="12">ANDROID + WEB</text>
+    <text x="753" y="254" class="mono" fill="#9AA8B4" font-size="11">compose / ship</text>
+  </g>
+
+  <path d="M621 155V205M816 155V205M706 123H731M706 237H731" stroke="#45515B" stroke-dasharray="4 5"/>
+  <circle cx="621" cy="180" r="5" fill="#5EEAD4" filter="url(#glow)"/>
+  <circle cx="816" cy="180" r="5" fill="#60A5FA" filter="url(#glow)"/>
+
+  <g clip-path="url(#radarClip)">
+    <circle cx="1032" cy="179" r="103" fill="#0B1014" stroke="#354049"/>
+    <circle cx="1032" cy="179" r="74" stroke="#2B363E"/>
+    <circle cx="1032" cy="179" r="42" stroke="#2B363E"/>
+    <path d="M929 179H1135M1032 76V282" stroke="#2B363E"/>
+    <path d="M1032 179L1116 116A105 105 0 0 1 1135 179Z" fill="#5EEAD4" opacity="0.16" class="orbit"/>
+    <path d="M1032 179L1116 116" stroke="#5EEAD4" opacity="0.8" class="orbit"/>
+    <g class="orbit">
+      <circle cx="1032" cy="91" r="5" fill="#FBBF24"/>
+      <circle cx="1100" cy="207" r="5" fill="#FB7185"/>
+      <circle cx="972" cy="235" r="5" fill="#60A5FA"/>
+    </g>
+    <circle cx="1032" cy="179" r="9" fill="#5EEAD4" filter="url(#glow)" class="pulse"/>
+  </g>
+  <text x="954" y="63" class="mono label">OPEN SOURCE RADAR</text>
+  <text x="970" y="313" class="mono" fill="#D8E0E7" font-size="12">PATCH • TEST • MERGE</text>
+
+  <rect x="514" y="43" width="677" height="274" rx="11" stroke="url(#signal)" stroke-width="1.5" opacity="0.64"/>
+  <rect x="512" y="44" width="74" height="272" fill="#5EEAD4" opacity="0.035" class="scan"/>
+
+  <text x="28" y="343" class="mono" fill="#66727C" font-size="10">COMMAND CENTER / PROFILE V2</text>
+  <text x="956" y="343" class="mono" fill="#66727C" font-size="10">MEASURE • FIND • FIX • SHIP</text>
+</svg>

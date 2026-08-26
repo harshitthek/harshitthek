@@ -1,0 +1,27 @@
+<svg width="560" height="240" viewBox="0 0 560 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AutoValuate AI</title><desc id="desc">Project card for an explainable vehicle resale valuation platform trained on Indian market data.</desc>
+  <defs>
+    <linearGradient id="price" x1="352" y1="164" x2="520" y2="60" gradientUnits="userSpaceOnUse"><stop stop-color="#60A5FA"/><stop offset=".55" stop-color="#FBBF24"/><stop offset="1" stop-color="#FB7185"/></linearGradient>
+    <style>.mono{font-family:"Fira Code",Consolas,monospace}.sans{font-family:Inter,ui-sans-serif,system-ui,sans-serif}.curve{stroke-dasharray:210;stroke-dashoffset:210;animation:draw 4.8s ease-in-out infinite}.scan{animation:scan 4s ease-in-out infinite}.dot{animation:pulse 2.5s ease-in-out infinite}@keyframes draw{0%,10%{stroke-dashoffset:210}55%,100%{stroke-dashoffset:0}}@keyframes scan{0%,100%{transform:translateX(0);opacity:.3}50%{transform:translateX(135px);opacity:1}}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.curve,.scan,.dot{animation:none;stroke-dashoffset:0}}</style>
+  </defs>
+  <rect x="1" y="1" width="558" height="238" rx="10" fill="#10100D" stroke="#403B2D" stroke-width="2"/>
+  <path d="M24 205H536" stroke="url(#price)" stroke-width="2"/>
+  <text x="28" y="43" class="mono" fill="#FBBF24" font-size="11">APPLIED ML / 03</text>
+  <text x="28" y="80" class="sans" fill="#F8FAFC" font-size="29" font-weight="800">AutoValuate AI</text>
+  <text x="28" y="108" class="mono" fill="#C8C2B3" font-size="13">Vehicle resale intelligence for India.</text>
+  <text x="28" y="131" class="mono" fill="#918A79" font-size="12">40k+ records • confidence bands • SHAP</text>
+  <g>
+    <path d="M355 169H522M355 169V55" stroke="#3A3932"/>
+    <path d="M360 152C389 150 398 123 426 126C457 130 462 94 491 98C506 100 515 73 522 64" stroke="url(#price)" stroke-width="4" stroke-linecap="round" class="curve"/>
+    <line x1="371" y1="58" x2="371" y2="166" stroke="#FBBF24" stroke-width="2" opacity=".65" class="scan"/>
+    <circle cx="426" cy="126" r="5" fill="#FBBF24" class="dot"/><circle cx="491" cy="98" r="5" fill="#FB7185" class="dot"/>
+    <path d="M378 178H495L480 190H393Z" fill="#20201B" stroke="#4B483B"/>
+  </g>
+  <g class="mono" font-size="11" font-weight="700">
+    <rect x="28" y="158" width="62" height="25" rx="4" fill="#151F2C"/><text x="40" y="175" fill="#9CC5FF">Python</text>
+    <rect x="98" y="158" width="66" height="25" rx="4" fill="#242012"/><text x="109" y="175" fill="#FCD76C">CatBoost</text>
+    <rect x="172" y="158" width="66" height="25" rx="4" fill="#25171B"/><text x="183" y="175" fill="#FDA1B8">XGBoost</text>
+    <rect x="246" y="158" width="69" height="25" rx="4" fill="#13231F"/><text x="257" y="175" fill="#91EEDC">FastAPI</text>
+  </g>
+  <text x="28" y="224" class="mono" fill="#756F61" font-size="10">TRAIN → VALIDATE → EXPLAIN → ESTIMATE</text>
+</svg>

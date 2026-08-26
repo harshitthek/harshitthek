@@ -1,0 +1,33 @@
+<svg width="560" height="240" viewBox="0 0 560 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Resilient</title><desc id="desc">Project card for an AI coding-agent benchmark and autonomous remediation pipeline.</desc>
+  <defs>
+    <linearGradient id="edge" x1="28" y1="28" x2="532" y2="212" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .mono{font-family:"Fira Code",Consolas,monospace}.sans{font-family:Inter,ui-sans-serif,system-ui,sans-serif}.flow{stroke-dasharray:7 9;animation:flow 4s linear infinite}.pulse{animation:pulse 2.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.d1{animation-delay:.7s}.d2{animation-delay:1.4s}@keyframes flow{to{stroke-dashoffset:-32}}@keyframes pulse{0%,100%{opacity:.55;transform:scale(.88)}50%{opacity:1;transform:scale(1.16)}}@media(prefers-reduced-motion:reduce){.flow,.pulse{animation:none}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="558" height="238" rx="10" fill="#0B1014" stroke="#2C3841" stroke-width="2"/>
+  <path d="M24 205H536" stroke="url(#edge)" stroke-width="2"/>
+  <text x="28" y="43" class="mono" fill="#5EEAD4" font-size="11">AI AGENT RELIABILITY / 01</text>
+  <text x="28" y="80" class="sans" fill="#F8FAFC" font-size="29" font-weight="800">Resilient</text>
+  <text x="28" y="108" class="mono" fill="#B5C0CA" font-size="13">Coding-agent benchmark + remediation pipeline.</text>
+  <text x="28" y="131" class="mono" fill="#82909B" font-size="12">isolated runs • test gates • upstream PRs</text>
+  <g>
+    <path d="M356 76H509M382 111H483M356 146H509" stroke="#34434D" stroke-width="3"/>
+    <path d="M356 76H509M382 111H483M356 146H509" stroke="url(#edge)" stroke-width="2" class="flow"/>
+    <circle cx="356" cy="76" r="7" fill="#5EEAD4" class="pulse" filter="url(#glow)"/>
+    <circle cx="509" cy="76" r="7" fill="#60A5FA" class="pulse d1"/>
+    <circle cx="382" cy="111" r="7" fill="#FBBF24" class="pulse d2"/>
+    <circle cx="483" cy="111" r="7" fill="#5EEAD4" class="pulse"/>
+    <circle cx="356" cy="146" r="7" fill="#FB7185" class="pulse d1"/>
+    <circle cx="509" cy="146" r="7" fill="#5EEAD4" class="pulse d2"/>
+  </g>
+  <g class="mono" font-size="11" font-weight="700">
+    <rect x="28" y="158" width="62" height="25" rx="4" fill="#132025"/><text x="40" y="175" fill="#9FF4E7">Python</text>
+    <rect x="98" y="158" width="69" height="25" rx="4" fill="#121D2A"/><text x="109" y="175" fill="#9CC5FF">FastAPI</text>
+    <rect x="175" y="158" width="64" height="25" rx="4" fill="#211B10"/><text x="188" y="175" fill="#FCD76C">Agents</text>
+    <rect x="247" y="158" width="70" height="25" rx="4" fill="#201318"/><text x="258" y="175" fill="#FDA1B8">Three.js</text>
+  </g>
+  <text x="28" y="224" class="mono" fill="#66737E" font-size="10">DISCOVER → DISPATCH → VERIFY → SUBMIT</text>
+</svg>
