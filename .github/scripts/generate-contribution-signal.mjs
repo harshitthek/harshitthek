@@ -152,7 +152,7 @@ export function buildSignalModel(payload, externalMergedPullRequests = 0, option
 
   return {
     username,
-    totalContributions: Math.max(0, Number(calendar.totalContributions ?? 0)),
+    totalContributions: days.reduce((sum, day) => sum + day.contributionCount, 0),
     externalMergedPullRequests: Math.max(0, Number(externalMergedPullRequests ?? 0)),
     weeks,
     topRepositories,

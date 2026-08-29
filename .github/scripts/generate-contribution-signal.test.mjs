@@ -42,6 +42,20 @@ function fixturePayload() {
   };
 }
 
+function fiftyThreeWeekFixturePayload() {
+  const payload = fixturePayload();
+  payload.data.user.contributionsCollection.contributionCalendar.totalContributions = 9;
+  payload.data.user.contributionsCollection.contributionCalendar.weeks = [
+    {
+      contributionDays: [
+        { contributionCount: 9, date: "2025-08-17", weekday: 0 },
+      ],
+    },
+    ...Array.from({ length: 52 }, () => ({ contributionDays: [] })),
+  ];
+  return payload;
+}
+
 test("escapeXml protects generated SVG text", () => {
   assert.equal(escapeXml(`<repo name="x"> & 'y'`), "&lt;repo name=&quot;x&quot;&gt; &amp; &apos;y&apos;");
 });
@@ -71,6 +85,13 @@ test("model excludes private repositories and the profile repository", () => {
   ]);
   assert.equal(JSON.stringify(model).includes("private-lab"), false);
   assert.equal(model.externalMergedPullRequests, 8);
+});
+
+test("model total excludes contributions in a discarded leading week", () => {
+  const model = buildSignalModel(fiftyThreeWeekFixturePayload());
+  assert.equal(model.weeks.length, 52);
+  assert.equal(model.totalContributions, 0);
+  assert.equal(model.activeDays, 0);
 });
 
 test("rendering is deterministic and valid-looking for sparse data", () => {
