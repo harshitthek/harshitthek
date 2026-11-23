@@ -82,6 +82,8 @@ const harshit = {
 
 ### GitHub Activity
 
+[Customize these activity cards](https://harshitthek-github-activity.vercel.app/#customize)
+
 <div align="center">
 
 <img width="49%" alt="GitHub stats" src="https://harshitthek-github-activity.vercel.app/api/cards/stats?username=harshitthek&amp;theme=tokyonight" />
