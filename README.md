@@ -87,7 +87,7 @@ const harshit = {
 <div align="center">
 
 <img width="49%" alt="GitHub stats" src="https://harshitthek-github-activity.vercel.app/api/cards/stats?username=harshitthek&amp;theme=tokyonight" />
-<img width="49%" alt="GitHub streak" src="https://harshitthek-github-activity.vercel.app/api/cards/streak?username=harshitthek&amp;theme=tokyonight&amp;hide_border=true" />
+<img src="https://harshitthek-github-activity.vercel.app/api/cards/streak?theme=github_dark&amp;hide_border=true" alt="GitHub contribution streak" />
 
 <br />
 
