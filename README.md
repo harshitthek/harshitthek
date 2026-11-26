@@ -84,21 +84,21 @@ const harshit = {
 
 <div align="center">
 
-<img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitthek&amp;theme=tokyonight" />
-<img width="49%" alt="GitHub streak" src="https://github-readme-streak-stats-eight.vercel.app?user=harshitthek&amp;theme=tokyonight&amp;hide_border=true" />
+<img width="49%" alt="GitHub stats" src="https://harshitthek-github-activity.vercel.app/api/cards/stats?username=harshitthek&amp;theme=tokyonight" />
+<img width="49%" alt="GitHub streak" src="https://harshitthek-github-activity.vercel.app/api/cards/streak?username=harshitthek&amp;theme=tokyonight&amp;hide_border=true" />
 
 <br />
 
-<img width="100%" alt="Profile contribution details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitthek&amp;theme=tokyonight" />
+<img width="100%" alt="Profile contribution details" src="https://harshitthek-github-activity.vercel.app/api/cards/profile-details?username=harshitthek&amp;theme=tokyonight" />
 
 <br />
 
-<img width="49%" alt="Languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitthek&amp;theme=tokyonight" />
-<img width="49%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitthek&amp;theme=tokyonight&amp;utcOffset=5.5" />
+<img width="49%" alt="Languages by repo" src="https://harshitthek-github-activity.vercel.app/api/cards/repos-per-language?username=harshitthek&amp;theme=tokyonight" />
+<img width="49%" alt="Productive time" src="https://harshitthek-github-activity.vercel.app/api/cards/productive-time?username=harshitthek&amp;theme=tokyonight&amp;timeZone=Asia%2FKolkata" />
 
 <br />
 
-<img width="100%" alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=harshitthek&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1" />
+<img width="100%" alt="GitHub trophies" src="https://harshitthek-github-activity.vercel.app/api/cards/trophies?username=harshitthek&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1" />
 
 </div>
 
